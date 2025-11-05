@@ -4,7 +4,9 @@
 AutoFlow PDF is a Windows Forms application built in C# for automating repetitive PDF-related workflows.  
 It allows you to record **action points** (clicks, text inputs, scrolling, hotkeys, file dialogs, etc.) and replay them across multiple PDF files.
 
-![Alt Text](pdf tool 1.png)
+## This the configure file stored in the Appdata to run the automation after the configuration happen
+![UI Preview](config.PNG)
+
 ---
 
 ## ✨ Features
@@ -53,7 +55,9 @@ It allows you to record **action points** (clicks, text inputs, scrolling, hotke
 ├── PdfAutomationApp.csproj
 └── README.md
 
-![Alt Text](config.png)
+## This is the interface of the automation tool for teh business model
+![UI Preview](Tool.PNG)
+
 
 ---
 
